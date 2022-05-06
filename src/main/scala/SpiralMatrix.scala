@@ -85,6 +85,8 @@ object SpiralMatrix extends zio.ZIOAppDefault {
     ---------------
     9 | 10| 11| 12|
     ---------------
+  Returns:
+  SpiralMatrix: List(1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7)
   */
   val inputMatrix: List[List[Int]] = List(List(1,2,3,4),List(5,6,7,8),List(9,10,11,12))
 
