@@ -63,3 +63,15 @@ hs_err_pid*
 /.idea/modules/ZLayerPlayground.iml
 /.idea/modules/ZLayerPlayground-build.iml
 /.idea/sbt.xml
+/project/build.properties
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.bsp/sbt.json
+/.idea/libraries/sbt__dev_zio_izumi_reflect_3_2_1_0_jar.xml
+/.idea/libraries/sbt__dev_zio_izumi_reflect_thirdparty_boopickle_shaded_3_2_1_0_jar.xml
+/.idea/libraries/sbt__dev_zio_zio_3_2_0_0_RC6_jar.xml
+/.idea/libraries/sbt__dev_zio_zio_internal_macros_3_2_0_0_RC6_jar.xml
+/.idea/libraries/sbt__dev_zio_zio_stacktracer_3_2_0_0_RC6_jar.xml
+/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_1_2_jar.xml
+/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml
+/.idea/modules/SpiralMatrix-build.iml
